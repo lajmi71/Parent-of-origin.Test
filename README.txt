@@ -1,0 +1,1 @@
+You need to run the file Appli.2.R to run an example of the Parent-of-origin test.
